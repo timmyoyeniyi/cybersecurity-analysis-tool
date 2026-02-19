@@ -1,4 +1,4 @@
-# cybersecurity-analysis-tool
+# Cybersecurity-analysis-tool
 
 1.	Project Setup on GitHub: 
 •	Create a new repository on GitHub. Name it appropriately (e.g., cybersecurity-analysis-tool). 
